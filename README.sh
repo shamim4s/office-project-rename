@@ -83,3 +83,6 @@ exit
 
 
 
+```
+curl -X POST "https://file.io" \ -H "Authorization: Bearer 4BVGGMX.PE59P7H-VTGMYNK-KMXN24F-4QGK2CC" \ -F "file=@mute.txt"
+```
